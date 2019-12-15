@@ -44,7 +44,7 @@ for (i in 1:length(counter[,1])){
   }
   print(counter[i,1])
 }
-injury.tracker <- injury.tracker[,4:23]
+injury.tracker <- injury.tracker[,4:20]
 injury.agg <- aggregate(injury.tracker, by = list(injury.tracker$injured_for), FUN = fixedMean)
 print(injury.agg)
 new_counter <- new_counter[order(new_counter$out),]

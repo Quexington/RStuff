@@ -1,0 +1,325 @@
+"school","score","count"
+"Youngstown State",21.41,1
+"Milwaukee",18.31,1
+"Longwood",16.58,2
+"North Carolina-Greensboro",16.43,1
+"Monmouth",15.72,1
+"Purdue-Fort Wayne",13.89,1
+"American",13.85,1
+"Hartford",13.44,1
+"Saint Louis",12.7,3
+"UC-Davis",12.45,1
+"Pennsylvania",12.056,5
+"Akron",11.355,2
+"Eastern Kentucky",11.165,2
+"Savannah State",10.88,1
+"Fairfield",10.715,4
+"Saint Francis (PA)",10.595,2
+"Alcorn State",10.4157142857143,7
+"Lipscomb",9.96,2
+"Coppin State",9.87,1
+"Mississippi Valley State",9.4175,4
+"Virginia Military Institute",9.195,2
+"Colgate",8.795,2
+"Niagara",8.774,5
+"Manhattan",8.75,4
+"Detroit Mercy",8.73285714285714,7
+"William & Mary",8.645,2
+"Ball State",8.45285714285714,7
+"Western Illinois",8.42,2
+"Davidson",8.3725,4
+"Bethune-Cookman",8.325,2
+"San Jose State",8.135,4
+"Nicholls State",8.102,5
+"Radford",7.9825,4
+"St. Francis (NY)",7.9,5
+"Charleston Southern",7.9,1
+"Bowling Green State",7.7025,4
+"Northern Colorado",7.7,1
+"Utah",7.69692307692308,13
+"Texas State",7.65333333333333,3
+"Arkansas-Pine Bluff",7.62714285714286,7
+"Wyoming",7.6175,4
+"Hofstra",7.5975,4
+"Morehead State",7.594,5
+"South Dakota State",7.52,1
+"Tulsa",7.35333333333333,9
+"East Tennessee State",7.3525,4
+"Navy",7.345,2
+"Utah Valley",7.33,1
+"Loyola (IL)",7.285,2
+"Utah State",7.23333333333333,3
+"Siena",7.165,4
+"New Orleans",7.1575,4
+"Southern Utah",7.08,3
+"Tennessee Tech",7.075,2
+"Rider",7.075,4
+"Iona",7.02333333333333,6
+"Toledo",7.02,2
+"Oakland",7.01,4
+"Maryland-Eastern Shore",6.958,5
+"Florida A&M",6.9525,4
+"Oklahoma",6.94666666666667,9
+"Connecticut",6.90571428571428,28
+"Cal State Northridge",6.85,3
+"Drexel",6.81,2
+"Michigan",6.80074074074074,27
+"Southeastern Louisiana",6.675,2
+"Austin Peay",6.66666666666667,6
+"Louisiana",6.65833333333333,6
+"Indiana State",6.6175,4
+"Cal State Long Beach",6.61571428571429,7
+"Fordham",6.59,1
+"Louisiana Tech",6.546,5
+"Jacksonville",6.4775,4
+"Cal Poly",6.47,1
+"Murray State",6.40222222222222,9
+"Duke",6.31509803921569,51
+"Georgia Southern",6.24,1
+"New Mexico",6.23090909090909,11
+"Presbyterian",6.23,1
+"Virginia Commonwealth",6.20166666666667,6
+"Pacific",6.14714285714286,7
+"Seton Hall",6.14666666666667,12
+"Arizona",6.11755555555556,45
+"Jacksonville State",6.08,3
+"Temple",6.00222222222222,9
+"Grambling",5.99,4
+"Hawaii",5.975,2
+"Kentucky",5.95258064516129,62
+"Indiana",5.92761904761905,21
+"Massachusetts",5.92666666666667,6
+"Rhode Island",5.92444444444445,9
+"Texas Christian",5.915,4
+"Chattanooga",5.91,2
+"Ohio",5.90571428571429,7
+"Eastern Washington",5.904,5
+"Western Michigan",5.8525,4
+"Alabama",5.82466666666667,15
+"Weber State",5.82166666666667,6
+"Stanford",5.79125,16
+"IUPUI",5.75,1
+"Ohio State",5.74875,16
+"North Carolina-Asheville",5.74333333333333,3
+"Northwestern State",5.73666666666667,6
+"Saint Joseph's",5.718,5
+"George Mason",5.71333333333333,3
+"Denver",5.71,1
+"Texas",5.68695652173913,23
+"San Francisco",5.67,3
+"Memphis",5.66130434782609,23
+"University of California",5.572,20
+"Texas A&M",5.518,15
+"Marist",5.51,1
+"Villanova",5.48476190476191,21
+"Washington",5.45045454545454,22
+"Loyola Marymount",5.45,2
+"North Carolina",5.40133333333333,45
+"Florida",5.39961538461538,26
+"Kansas",5.37045454545455,44
+"DePaul",5.36888888888889,9
+"Mercer",5.34666666666667,3
+"Houston",5.30727272727273,11
+"South Carolina State",5.26,3
+"St. Bonaventure",5.25857142857143,7
+"Seattle",5.25,1
+"Georgia Tech",5.22444444444444,27
+"High Point",5.22,1
+"Miami (OH)",5.215,4
+"Tennessee-Martin",5.19666666666667,3
+"Cincinnati",5.19428571428571,21
+"Southern California",5.18357142857143,14
+"Nebraska",5.165,6
+"Clemson",5.16,13
+"UCLA",5.15833333333333,42
+"North Carolina A&T",5.1475,4
+"Sam Houston State",5.1,2
+"Old Dominion",5.09333333333333,3
+"Marshall",5.05666666666667,3
+"Louisville",5.04076923076923,26
+"Harvard",5.04,3
+"Furman",5.03,2
+"Nevada-Las Vegas",5.024375,16
+"Pittsburgh",5.00866666666667,15
+"Eastern Michigan",5.00666666666667,3
+"Louisiana State",4.99541666666667,24
+"Richmond",4.98333333333333,3
+"Quinnipiac",4.97333333333333,3
+"Air Force",4.96,1
+"Northern Arizona",4.9275,4
+"Virginia Tech",4.91571428571429,7
+"Norfolk State",4.87,1
+"Citadel",4.85,1
+"Nevada",4.84777777777778,9
+"Duquesne",4.82,5
+"Kansas State",4.815,10
+"Georgetown",4.80421052631579,19
+"Maryland",4.78526315789474,19
+"Oregon State",4.76111111111111,9
+"Syracuse",4.74814814814815,27
+"Cal State Fullerton",4.747,10
+"Stony Brook",4.73,1
+"Butler",4.715,2
+"Sacred Heart",4.69,1
+"Central Connecticut State",4.675,4
+"Birmingham-Southern",4.675,2
+"Purdue",4.67,15
+"Texas-San Antonio",4.656,5
+"Columbia",4.64666666666667,3
+"Eastern Illinois",4.63,5
+"Minnesota",4.62454545454545,11
+"Oregon",4.594375,16
+"Jackson State",4.562,5
+"South Carolina Upstate",4.55,1
+"Illinois",4.53384615384615,13
+"Washington State",4.501,10
+"South Florida",4.465,6
+"Centenary (LA)",4.4125,4
+"Xavier",4.37615384615385,13
+"Army",4.375,4
+"Creighton",4.37285714285714,7
+"Auburn",4.336,10
+"Middle Tennessee",4.33,1
+"Tulane",4.32,7
+"Texas-Arlington",4.31,3
+"Alabama State",4.28333333333333,3
+"Colorado",4.2675,12
+"Florida Atlantic",4.2425,4
+"Sacramento State",4.24,2
+"Tennessee",4.22428571428571,14
+"St. John's (NY)",4.22,13
+"Gonzaga",4.21333333333333,15
+"Texas Tech",4.19545454545455,11
+"Towson",4.19,2
+"Florida State",4.18666666666667,21
+"Lamar",4.18333333333333,3
+"Arizona State",4.17666666666667,9
+"Iowa State",4.17045454545455,22
+"Boston College",4.14363636363636,11
+"Wisconsin",4.14076923076923,13
+"La Salle",4.13833333333333,6
+"Mississippi",4.136,5
+"South Alabama",4.12666666666667,3
+"South Carolina",4.10833333333333,6
+"North Texas",4.07857142857143,7
+"Georgia",4.03545454545455,11
+"Texas-El Paso",4.03,7
+"Fairleigh Dickinson",4.02,1
+"Mount St. Mary's",4.0175,4
+"Campbell",3.994,5
+"Bradley",3.9875,8
+"Missouri",3.956,15
+"Southern Illinois",3.944,5
+"Oklahoma State",3.93833333333333,18
+"Vanderbilt",3.932,10
+"Providence",3.92571428571429,14
+"College of Charleston",3.91428571428571,7
+"Virginia",3.91411764705882,17
+"Northern Illinois",3.882,5
+"Yale",3.88,5
+"Kent State",3.875,4
+"Long Island University",3.855,2
+"Tennessee State",3.84,4
+"Binghamton",3.84,1
+"Arkansas",3.82555555555556,18
+"Rutgers",3.82,6
+"Wichita State",3.80285714285714,7
+"New Mexico State",3.802,5
+"Baylor",3.74181818181818,11
+"Troy",3.7325,4
+"Stetson",3.725,2
+"Mississippi State",3.72333333333333,12
+"Michigan State",3.7112,25
+"Central Michigan",3.70333333333333,3
+"Iowa",3.68636363636364,11
+"Notre Dame",3.67375,16
+"Bucknell",3.65,1
+"Charlotte",3.64,6
+"Wright State",3.61,4
+"Buffalo",3.59,2
+"Howard",3.53,2
+"Prairie View",3.52,2
+"Montana",3.51,5
+"Marquette",3.50210526315789,19
+"Oral Roberts",3.49,2
+"Western Carolina",3.48625,8
+"West Virginia",3.47,4
+"Penn State",3.46,8
+"Boise State",3.43833333333333,6
+"George Washington",3.40777777777778,9
+"Cleveland State",3.402,5
+"Valparaiso",3.39,3
+"North Carolina State",3.37833333333333,18
+"Fresno State",3.34882352941177,17
+"Western Kentucky",3.335,6
+"Texas Southern",3.265,2
+"Brigham Young",3.26166666666667,6
+"Montana State",3.25,1
+"Central Florida",3.24571428571429,7
+"McNeese State",3.185,4
+"UC-Riverside",3.15,1
+"James Madison",3.13,2
+"Louisiana-Monroe",3.12333333333333,6
+"Maine",3.11,3
+"Pepperdine",3.10714285714286,7
+"Saint Mary's (CA)",3.08666666666667,3
+"Georgia State",3.08333333333333,3
+"North Carolina-Wilmington",3.08,1
+"Missouri State",3.08,2
+"Stephen F. Austin",3.07666666666667,3
+"Little Rock",3.06333333333333,6
+"Alabama-Birmingham",3.04333333333333,6
+"Colorado State",2.98666666666667,6
+"Illinois-Chicago",2.982,5
+"San Diego State",2.98125,8
+"UC-Santa Barbara",2.955,4
+"Lehigh",2.94666666666667,3
+"Santa Clara",2.945,2
+"Drake",2.935,2
+"Southern Methodist",2.93,9
+"Coastal Carolina",2.91,1
+"Winthrop",2.86,1
+"Delaware",2.825,2
+"Wagner",2.785,2
+"Holy Cross",2.76333333333333,3
+"Robert Morris",2.75,1
+"Texas A&M-Corpus Christi",2.71333333333333,3
+"Morgan State",2.66833333333333,6
+"Northeastern",2.635,2
+"Dayton",2.62285714285714,7
+"East Carolina",2.59,3
+"Arkansas State",2.56,1
+"Belmont",2.53,1
+"Southeast Missouri State",2.525,2
+"Evansville",2.49333333333333,3
+"Hampton",2.41666666666667,3
+"Rice",2.35,5
+"Miami (FL)",2.311,10
+"Southern",2.27,1
+"Liberty",2.255,4
+"Missouri-Kansas City",2.1975,4
+"Central Arkansas",2.19,1
+"Canisius",2.19,2
+"San Diego",2.14,1
+"Northwestern",2.01666666666667,3
+"Princeton",1.94,1
+"Florida International",1.83333333333333,3
+"Portland State",1.825,2
+"Idaho",1.8225,4
+"Samford",1.816,5
+"Green Bay",1.565,4
+"Southern Mississippi",1.525,2
+"Brown",1.45,1
+"Loyola (MD)",1.3225,4
+"Delaware State",1.24333333333333,3
+"Florida Gulf Coast",1.22,1
+"Alabama A&M",1.14,2
+"Boston University",1.05,2
+"New Hampshire",1,1
+"Chicago State",0.9775,4
+"South Dakota",0.94,1
+"Cornell",0.93,1
+"Illinois State",0.765,2
+"Northeastern Illinois",0.76,1
+"Kennesaw State",0.19,1
+"Dartmouth",-0.3,1

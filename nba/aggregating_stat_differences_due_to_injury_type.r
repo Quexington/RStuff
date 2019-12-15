@@ -2,7 +2,8 @@ csv <- read.csv('C:/users/nrp0250451/Documents/RStuff/csvs/injury_keywords.csv',
 inj <- read.csv('C:/users/nrp0250451/Documents/RStuff/csvs/injuries.csv', header=TRUE)
 players <- read.csv('C:/users/nrp0250451/Documents/RStuff/csvs/basic_per_game_player_stats_2013_2018.csv')
 counter <- data.frame(csv[,2],rep(0,length(csv[,1])))
-players <- players[,c(1:13,15:16,18:19,21:22,24:30)]
+players <- players[,c(1:13,15:16,18:19,21:22,24:33)]
+print(names(players))
 injury.tracker <- data.frame(stringsAsFactors=FALSE)
 fixedMean <- function(vector){
   vector <- vector[!is.nan(vector)]
@@ -31,7 +32,7 @@ for (i in 1:length(counter[,1])){
                 first.agg <- aggregate(first.slice, by = list(first.slice[,2]), FUN = mean)
                 second.agg <- aggregate(second.slice, by = list(second.slice[,2]), FUN = mean)
                 diff <- (second.agg/first.agg)
-                adder <- data.frame(keyword=as.character(counter[i,1]),player=as.character(player_name),return_date=as.character(slice[z,5]),diff[,12:26],stringsAsFactors=FALSE)
+                adder <- data.frame(keyword=as.character(counter[i,1]),player=as.character(player_name),return_date=as.character(slice[z,5]),diff[,12:30],stringsAsFactors=FALSE)
                 injury.tracker <- rbind(injury.tracker, adder)
               }
             }
@@ -43,7 +44,7 @@ for (i in 1:length(counter[,1])){
   }
   print(counter[i,])
 }
-injury.tracker <- injury.tracker[,c(1,4:18)]
+injury.tracker <- injury.tracker[,c(1,4:22)]
 injury.agg <- aggregate(injury.tracker, by = list(injury.tracker$keyword), FUN = fixedMean)
 counter <- counter[order(counter[,1]),]
 counter <- counter[!is.na(match(counter[,1],injury.agg[,1])),]

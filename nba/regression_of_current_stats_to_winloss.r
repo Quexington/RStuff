@@ -3,6 +3,7 @@ current <- read.csv('C:/users/quexi/Documents/RStuff/csvs/current_nba_season_sta
 sorted = csv[order(csv$Season, decreasing=TRUE), ]
 neo_csv = sorted[31:180, ]
 reg = lm(neo_csv[,8]~.,data=neo_csv[,9:40])
+print(coefficients)
 
 for(i in 1:30){
   ontrack = current[i,9:26]*82/current[i,5]
